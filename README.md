@@ -1,2 +1,1 @@
-# hyprland-install
- installation scripts for my hyprland
+# modified hyprland install.
