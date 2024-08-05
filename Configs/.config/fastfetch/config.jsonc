@@ -18,11 +18,11 @@
         },
         {
             "type": "custom",
-            "format": "\u001b[31m   O\u001B[0m : plumsy.arch"
+            "format": "\u001b[31m   OS\u001B[0m : plumsy.arch"
         },
         {
             "type": "custom",
-            "format": "\u001B[31m   Kerne\u001B[0m : \u001B[35mplumsy.kernel (0.0.9 release)"
+            "format": "\u001B[31m   Kernel\u001B[0m : \u001B[35mplumsy.kernel (0.0.9 release)"
         },
         {
             "type": "packages",
